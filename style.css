@@ -1,0 +1,51 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hero {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.title {
+    font-weight: 900;
+    font-size: 48px;
+}
+
+.subtitle {
+    font-size: 18px;
+}
+
+.header {
+    background-color: #1F2937;
+}
+
+.header-links {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+button, .call-to-action {
+    background-color: #3882F6;
+}
+
+.mid-title {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    /* font-weight: lighter; */
+    color: #1F2937;
+}
